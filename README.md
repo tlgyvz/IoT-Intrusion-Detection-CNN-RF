@@ -6,7 +6,7 @@ Bu proje, **CICIoT2023** veri setini kullanarak IoT ağlarındaki siber saldır�
 - **Veri Seti:** [CICIoT2023](https://www.unb.ca/cic/datasets/iotdataset-2023.html) (PCAP formatında ham ağ trafiği).
 - **Yöntem:** Byte-to-Image dönüşümü + CNN (Öznitelik Çıkarıcı) + Random Forest (Sınıflandırıcı).
 - **Sınıflar:** Benign (Normal), DDoS-SYN Flood, Mirai-udpplain, Recon-PortScan.
-- **Başarı Oranı:** %93.09 Genel Doğruluk (Accuracy).
+- **Başarı Oranı:** %92.94 Genel Doğruluk (Accuracy).
 
 #Metodoloji
 Bu çalışmada "Trafikten Görüntüye" (Traffic-to-Image) yaklaşımı benimsenmiştir:
